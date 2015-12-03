@@ -77,7 +77,12 @@
     box-shadow: -10px 10px 10px #888888;
 
 }
-
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
 .header_image {
     width: 70%;
     background-color: white;
