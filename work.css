@@ -28,61 +28,19 @@
 
   
 
-  .work:hover {
-    background-image: url(images/static.gif);
-    margin-bottom: 1%;
-    margin-top: 5%;
-    margin-left: 18%;
-  }
+  
   .work {
   	display: block;
   	font-family: helvetica;
   	color: white;
 	  width: 70%;
 	  box-sizing: border-box;
-  	background-color: black;
+  	background-image: url(images/static.gif);
   	border: 5px solid black;
   	margin: 0 auto;
   	margin-bottom: 1%;
     margin-top: 5%;
-    box-shadow: 5px 10px 10px #888888;
-}
-.studio:hover {
-    background-image: url(images/static.gif);
-    margin-bottom: 1%;
-    margin-top: 5%;
     margin-left: 18%;
-}
-.studio {
-    display: block;
-    font-family: helvetica;
-    color: white;
-    width: 70%;
-    box-sizing: border-box;
-    background-color: black;
-    border: 5px solid black;
-    margin: 0 auto;
-    margin-bottom: 1%;
-    margin-top: 5%;
-    box-shadow: 5px 10px 10px #888888;
-}
-.location:hover {
-    background-image: url(images/static.gif);
-    margin-bottom: 1%;
-    margin-top: 5%;
-    margin-left: 18%;
-}
-.location {
-    display: block;
-    font-family: helvetica;
-    color: white;
-    width: 70%;
-    box-sizing: border-box;
-    background-color: black;
-    border: 5px solid black;
-    margin: 0 auto;
-    margin-bottom: 1%;
-    margin-top: 5%;
     box-shadow: 5px 10px 10px #888888;
 }
 
@@ -109,6 +67,7 @@
     width: 70%;
     box-sizing: border-box;
     background-color: white;
+    border: 3px solid black;
     margin: 0 auto;
     margin-bottom: 5%;
     margin-top: 5%;
