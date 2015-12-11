@@ -48,6 +48,8 @@
     font-family: helvetica;
     color: black;
     width: 70%;
+    padding: 4%;
+    margin-top: 4%;
     box-sizing: border-box;
     background-color: white;
     border: 5px solid black;
@@ -62,10 +64,11 @@
   .interior1 {
     display: block;
     font-family: helvetica;
-    color: black;
-    width: 70%;
+    color: white;
+    width: 90%;
+    padding: 2%;
     box-sizing: border-box;
-    background-color: white;
+    background-color: black;
     border: 3px solid black;
     margin: 0 auto;
     margin-bottom: 5%;
