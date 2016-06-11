@@ -40,7 +40,8 @@
   	
   
   	margin: 0 auto;
-  	
+  	margin-bottom: 1%;
+    margin-top: 5%;
     
 }
 
@@ -56,6 +57,8 @@
     box-sizing: border-box;
   
     margin: 0 auto;
+    margin-bottom: 1%;
+    margin-top: 5%;
     
     
 }
