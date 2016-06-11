@@ -42,7 +42,7 @@
   	margin: 0 auto;
   	margin-bottom: 1%;
     margin-top: 5%;
-    
+       font-size: 25%;
 }
 
 .studio:hover {
@@ -59,7 +59,7 @@
     margin: 0 auto;
     margin-bottom: 1%;
     margin-top: 5%;
-    
+     font-size: 25%;
     
 }
 <!--.location:hover {
