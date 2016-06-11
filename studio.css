@@ -31,41 +31,35 @@
   .studio {
   	display: block;
   	font-family: helvetica;
-  	color: white;
+  	color: black;
 	  width: 70%;
 	  box-sizing: border-box;
-  	background-image: url(images/static.gif);
-  	border: 5px solid black;
+  	
   	margin: 0 auto;
   	margin-bottom: 1%;
     margin-top: 5%;
-    margin-left: 18%;
-    box-shadow: 5px 10px 10px #888888;
+    font-size: 25%;
+    
 }
 .work:hover {
-    background-image: url(images/static.gif);
-    margin-bottom: 1%;
-    margin-top: 5%;
-    margin-left: 18%;
+    color: blue;
   }
   .work {
     display: block;
     font-family: helvetica;
-    color: white;
+    color: black;
     width: 70%;
     box-sizing: border-box;
     background-color: black;
-    border: 5px solid black;
+  
     margin: 0 auto;
     margin-bottom: 1%;
     margin-top: 5%;
-    box-shadow: 5px 10px 10px #888888;
+    font-size: 25%;
+  
 }
 .location:hover {
-    background-image: url(images/static.gif);
-    margin-bottom: 1%;
-    margin-top: 5%;
-    margin-left: 18%;
+    color: blue;
 }
 .location {
     display: block;
@@ -107,7 +101,7 @@
     padding: 2%;
     box-sizing: border-box;
     background-color: black;
-    border: 3px solid black;
+   
     margin: 0 auto;
     margin-bottom: 5%;
     margin-top: 5%;
@@ -125,17 +119,16 @@
 	width: 70%;
 	box-sizing: border-box;
   	background-color: white;
-  	border: 5px solid black;
+  
   	margin: 0 auto;
   	margin-bottom: 5%;
-    box-shadow: -10px 10px 10px #888888;
-
+   
 }
 
 .header_image {
     width: 70%;
     background-color: white;
-    border: 5px solid black;
+    
     margin: 0 auto;
     margin-top: 5%;
     margin-bottom: 5%;
@@ -143,5 +136,5 @@
     text-decoration: none;
     font-weight: bold;
     color: black;
-    font-size: 300%;
-    box-shadow: 10px 10px 10px #888888;
+    font-size: 200%;
+    
