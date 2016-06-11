@@ -27,47 +27,49 @@
   }
 
   
-
+.work:hover {
+    color: blue;
+}
   
   .work {
   	display: block;
   	font-family: helvetica;
-  	color: white;
+  	color: black;
 	  width: 70%;
 	  box-sizing: border-box;
-  	background-image: url(images/static.gif);
+  	
   	border: 5px solid black;
   	margin: 0 auto;
   	margin-bottom: 1%;
     margin-top: 5%;
     margin-left: 18%;
-    box-shadow: 5px 10px 10px #888888;
+    
 }
+
 .studio:hover {
-    background-image: url(images/static.gif);
-    margin-bottom: 1%;
-    margin-top: 5%;
-    margin-left: 18%;
+    color: blue;
 }
+
 .studio {
     display: block;
     font-family: helvetica;
-    color: white;
+    color: black;
     width: 70%;
     box-sizing: border-box;
-    background-color: black;
+  
     border: 5px solid black;
     margin: 0 auto;
     margin-bottom: 1%;
     margin-top: 5%;
-    box-shadow: 5px 10px 10px #888888;
+    
 }
-.location:hover {
+<!--.location:hover {
     background-image: url(images/static.gif);
     margin-bottom: 1%;
     margin-top: 5%;
     margin-left: 18%;
-}
+} -->
+
 .location {
     display: block;
     font-family: helvetica;
@@ -79,7 +81,7 @@
     margin: 0 auto;
     margin-bottom: 1%;
     margin-top: 5%;
-    box-shadow: 5px 10px 10px #888888;
+    
 }
   .contents {
     display: block;
@@ -93,7 +95,7 @@
     margin-bottom: 1%;
     margin-top: 5%;
     padding-top: 1%;
-    box-shadow: -10px 5px 10px #888888;
+  
 
   }
 
@@ -111,7 +113,7 @@
   	border: 5px solid black;
   	margin: 0 auto;
   	margin-bottom: 5%;
-    box-shadow: -10px 10px 10px #888888;
+   
 
 }
 a:link {
