@@ -141,13 +141,5 @@
 
   }
   .portrait {
-position: center;
-box-sizing: border-box;
- max-width: 900px;
-    min-width: 425px;
-    margin: auto;
-    width: 60%;
-    padding: 10px;
-    
   }
     
